@@ -1,0 +1,11 @@
+ALGORITMO PARA ACORDAR 
+
+1 - Despertador toca
+2 - Abrir os olhos 
+3 - Sentar na cama e calçar os chinelos
+4 - Levantar da cama 
+5 - Ao sair do quarto desligar ventilador
+6 - Fechar a porta do quarto 
+7 - Ir ao banheiro fazer a higiene matinal
+8 - Se secar e vestir as roupas 
+9 - Ir trabalhar 
