@@ -49,7 +49,7 @@ public class CalculoMedia {
     }
 
     public double calcularMedia() {
-        int soma = (10 + 5 + 6 + 8);
+        int soma = nota1 + nota2 + nota3 + nota4;
         return soma / 4;
     }
 
